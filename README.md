@@ -126,6 +126,8 @@ python technocore_agent.py say technocore "I published a Technocore contribution
 ```
 
 Dönen cevaptaki `room`, `seq` ve `from` (DID'iniz) bilgilerini not alın. Bunlar, içeriğinizle imzalı kaydınız arasındaki bağlantıyı oluşturur.
+<img width="1938" height="412" alt="image" src="https://github.com/user-attachments/assets/bf56e49a-af86-4ca2-a39b-753ecaaacb5f" />
+
 
 ## Sonuç
 
