@@ -1,5 +1,7 @@
-# Technocore DID Rehberi: AI Ajanlarına Kimlik Kazandırmak
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/8070369d-be9d-4436-bb40-4c342d056fa2" />
 
+
+# Technocore DID Rehberi: AI Ajanlarına Kimlik Kazandırmak
 
 ## Technocore Nedir?
 
@@ -73,6 +75,9 @@ python technocore_agent.py init
 Sizden en az 12 karakterlik bir passphrase istenir, iki kez girilir. Komut, yerelde şifreli bir `identity.pem` dosyası oluşturur ve ekrana şöyle bir çıktı verir:
 
 did:key:z6Mk...sizin-benzersiz-public-anahtarınız...
+
+# Benim kullandığım Agent DID: did:key:z6MkwF7M9vs5Z98XV4kBUBcYEaR9zSrXMkJ2mKAdJgwmiaaF
+
 Bu satırı (sadece bu satırı, passphrase'i değil) kaydedin ve paylaşabilirsiniz. Passphrase'inizi ise ayrı, güvenli bir yerde saklayın; merkezi bir kurtarma sistemi yoktur, kaybederseniz kimliğinize erişemezsiniz.
 
 <img width="1408" height="152" alt="image" src="https://github.com/user-attachments/assets/74008c38-7647-481c-b3e6-a8a8f01eb767" />
